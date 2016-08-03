@@ -1,0 +1,10 @@
+<configuration>
+	<refFolder>/data/spark/ref</refFolder>
+	<toolsFolder>/data/spark/tools</toolsFolder>
+<!--	<tmpFolder>/tmp/spark</tmpFolder> -->
+	<tmpFolder>tmp</tmpFolder>
+	<inputFolder>input8_il</inputFolder>
+	<outputFolder>output</outputFolder> 
+	<numInstances>8</numInstances>
+	<numThreads>8</numThreads>
+</configuration>
